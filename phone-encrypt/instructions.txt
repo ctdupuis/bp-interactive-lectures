@@ -1,0 +1,7 @@
+1 <=> 9
+2 <=> 8
+3 <=> 7
+4 <=> 6
+5 <=> 0
+
+Make sure when sending the number that it is encrypted, skip the 5. ex: the number 123 should be sent as 987
