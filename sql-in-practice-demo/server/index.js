@@ -19,10 +19,10 @@ app.post('/seed', seed)
 
 // USER
 app.get('/user', getUserInfo)
-// app.put('/user', updateUserInfo)
+app.put('/user', updateUserInfo)
 
 // APPOINTMENTS
-// app.get('/appt', getUserAppt)
+app.get('/appt', getUserAppt)
 // app.post('/appt', requestAppointment)
 
 app.listen(SERVER_PORT, () => console.log(`up on ${SERVER_PORT}`))
