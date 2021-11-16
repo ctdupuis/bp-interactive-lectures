@@ -1,3 +1,6 @@
 [submodule "automation-demo/automation-demo/employee-manager"]
 	path = automation-demo/automation-demo/employee-manager
 	url = git@github.com:DevMountain-QA/employee-manager.git
+[submodule "automation-demo/employee-manager"]
+	path = automation-demo/employee-manager
+	url = git@github.com:DevMountain-QA/employee-manager.git
